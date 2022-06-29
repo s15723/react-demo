@@ -9,7 +9,7 @@ class Home extends React.Component {
   render() {
     return (
       <div className={style['st-home']}>
-        homeab
+        homea
         <Child />
       </div>
     )
